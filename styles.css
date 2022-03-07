@@ -75,7 +75,7 @@ footer{
 
 .separa{
     display:block;
-    background-color: aliceblue;
+    background-color: white;
     border-color:grey;
     border-style: none;
     border-top-style: dotted;
@@ -174,4 +174,9 @@ footer{
 
 .button:hover {
     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+  }
+
+  #contact{
+      color:white;
+      text-decoration: none;
   }
