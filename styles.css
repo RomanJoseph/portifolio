@@ -1,4 +1,8 @@
 /*Tag*/
+*{
+    box-sizing: border-box;
+}
+
 body{
     font-family: "Comic Sans MS", cursive, sans-serif;
     background-color: aliceblue;
@@ -60,12 +64,13 @@ footer{
 }
 
 .bloco_4{
+    margin-top: 60px;
     display:flex;
     align-items: center;
     justify-content: center;
     flex-flow: column;
-    padding: 5%;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 .text_bloco{
